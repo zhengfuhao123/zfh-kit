@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "Kit"
 include(":app")
- 
+include(":common-utils")
